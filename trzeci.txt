@@ -1,1 +1,1 @@
-aaaa
+zmiana po pierwszym wywo³aniu push
